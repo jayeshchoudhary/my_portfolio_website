@@ -45,7 +45,10 @@ body {
   font-family: "Comfortaa", Helvetica, Arial, sans-serif;
   background-color: #25b79f;
   /* Margin bottom by footer height */
-  margin-bottom: 60px; }
+  margin-bottom: 60px; 
+  max-width: 100vw;
+  overflow-x: hidden;
+}
 
 h1,
 h2,
